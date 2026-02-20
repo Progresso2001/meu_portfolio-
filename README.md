@@ -83,7 +83,7 @@ Página de autenticação moderna e responsiva
 
 | Período | Instituição | Curso |
 |---------|-------------|-------|
-| 2016-2020 | Complexo Escolar Chevron Bom Jesus | Bacharelado |
+| 2016-2020 | Complexo Escolar Chevron Bom Jesus | Técnico Médio |
 | 2021-2025 | Universidade Estadual de Tula (Rússia) | Licenciatura em Ciência da Computação |
 
 ## 🤝 Contribuições
