@@ -107,7 +107,3 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para d
 ***
 
 **Feito com ❤️ por [Joaquim Eliseu Menianga](https://github.com/Progresso2001) em 2026**
-
-***
-
-Gostarias que eu ajuste alguma seção específica ou adicione mais detalhes técnicos?
