@@ -135,11 +135,10 @@ article{
     color: var(--destaque);
 }
 #skill-container{
+    margin-top: 20px;
     display: grid;
     grid-template-columns: 1fr;
     gap: 30px;
-    
- 
 }
 #skill-container .info{
     display: flex;
